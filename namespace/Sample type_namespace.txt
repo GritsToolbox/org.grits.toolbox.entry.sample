@@ -1,0 +1,3 @@
+Synthetic	Synthetic
+Natural	Natural
+Recombinant	Recombinant

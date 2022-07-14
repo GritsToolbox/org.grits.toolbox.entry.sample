@@ -1,0 +1,13 @@
+Biotin	Biotin
+Fluorescein (FITC)	Fluorescein (FITC)
+Alexa Fluor 350	Alexa Fluor 350
+Alexa Fluor 488	Alexa Fluor 488
+Alexa Fluor 555	Alexa Fluor 555
+Alexa Fluor 647	Alexa Fluor 647
+Cy3	Cy3
+Cy5	Cy5
+DyLight 350	DyLight 350
+Dylight 650	Dylight 650
+Pacific Blue dye	Pacific Blue dye
+Texas Red dye	Texas Red dye
+Other	Other

@@ -1,0 +1,11 @@
+His-tag (polyhistidine or His6)	His-tag (polyhistidine or His6)
+FLAG-tag	FLAG-tag
+V5-tag	V5-tag
+Strep-tag	Strep-tag
+Myc-tag	Myc-tag
+Fc-tag	Fc-tag
+GST-tag (glutathione S-transferase)	GST-tag (glutathione S-transferase)
+MBP-tag (Maltose Binding Protein)	MBP-tag (Maltose Binding Protein)
+GFP-tag	GFP-tag
+BirA-derived biotin tag	BirA-derived biotin tag
+Other	Other

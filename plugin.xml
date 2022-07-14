@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+
+   <extension
+         id="org.grits.toolbox.entry.sample.fragment"
+         point="org.eclipse.e4.workbench.model">
+      <fragment
+            uri="fragment.e4xmi">
+      </fragment>
+   </extension>
+   <extension
+         point="org.grits.toolbox.core.propertyreader">
+      <reader
+            class="org.grits.toolbox.entry.sample.io.SamplePropertyReader"
+            propertyId="org.grits.toolbox.property.sample">
+      </reader>
+   </extension>
+   <extension
+         point="org.grits.toolbox.core.preferencePages">
+      <page
+            class="org.grits.toolbox.entry.sample.preference.SamplePreference"
+            id="plugin.projectexplorer.preference.sample"
+            name="Analyte">
+      </page>
+   </extension>
+
+</plugin>

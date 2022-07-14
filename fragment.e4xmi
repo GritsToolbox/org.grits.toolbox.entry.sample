@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:commands="http://www.eclipse.org/ui/2010/UIModel/application/commands" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_6Zka0AMkEeaBO_k7nJlGZA">
+  <imports xsi:type="commands:BindingContext" xmi:id="_Xk3T8ODaEeaUVu2_1UmTXg" elementId="org.grits.toolbox.core.bindingcontext.entry"/>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_uQsyEAV1EealXJcY-AyZaw" featurename="addons" parentElementId="org.grits.toolbox.core.application">
+    <elements xsi:type="application:Addon" xmi:id="_wuylIAV1EealXJcY-AyZaw" elementId="org.grits.toolbox.entry.sample.addon.0" contributionURI="bundleclass://org.grits.toolbox.entry.sample/org.grits.toolbox.entry.sample.SampleAddon"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_66Ft8AMkEeaBO_k7nJlGZA" featurename="commands" parentElementId="org.grits.toolbox.core.application">
+    <elements xsi:type="commands:Command" xmi:id="_9HTzcAMkEeaBO_k7nJlGZA" elementId="org.grits.toolbox.entry.sample.command.newanalyte" commandName="New Analyte" description="Creates a new Analyte"/>
+    <elements xsi:type="commands:Command" xmi:id="_bZzcIAspEeaAL9wzr3XE0Q" elementId="org.grits.toolbox.entry.sample.command.addcomponent" commandName="Add a Component" description="Adds a component to the sample"/>
+    <elements xsi:type="commands:Command" xmi:id="_UG6AMBLSEeaW35AFShdvjw" elementId="org.grits.toolbox.entry.sample.command.newbatchofanalytes" commandName="New Batch of Analytes" description="Creates x number of new analytes"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_gsAbAAMlEeaBO_k7nJlGZA" featurename="handlers" parentElementId="org.grits.toolbox.core.trimmedwindow.main">
+    <elements xsi:type="commands:Handler" xmi:id="_zWdvAAMlEeaBO_k7nJlGZA" elementId="org.grits.toolbox.entry.sample.handler.newanalyte" contributionURI="bundleclass://org.grits.toolbox.entry.sample/org.grits.toolbox.entry.sample.handler.NewAnalyteHandler" command="_9HTzcAMkEeaBO_k7nJlGZA"/>
+    <elements xsi:type="commands:Handler" xmi:id="_goNkoBLSEeaW35AFShdvjw" elementId="org.grits.toolbox.entry.sample.handler.newbatchofanalytes" contributionURI="bundleclass://org.grits.toolbox.entry.sample/org.grits.toolbox.entry.sample.handler.NewBatchOfAnalytesHandler" command="_UG6AMBLSEeaW35AFShdvjw"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_Hp0v8AMlEeaBO_k7nJlGZA" featurename="children" parentElementId="org.grits.toolbox.core.menu.main.grits.new" positionInList="">
+    <elements xsi:type="menu:HandledMenuItem" xmi:id="_azRGAAMlEeaBO_k7nJlGZA" elementId="org.grits.toolbox.entry.sample.handledmenuitem.analyte" label="Analyte" iconURI="platform:/plugin/org.grits.toolbox.entry.sample/icons/sampleIconSmall.png" tooltip="Creates a new analyte entry in the project" enabled="false" command="_9HTzcAMkEeaBO_k7nJlGZA"/>
+    <elements xsi:type="menu:HandledMenuItem" xmi:id="_wjsswBLZEeaW35AFShdvjw" elementId="org.grits.toolbox.entry.sample.handledmenuitem.batchofanalytes" label="Batch of Analytes" tooltip="Creates x number of new analytes" command="_UG6AMBLSEeaW35AFShdvjw"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_oDQd8AM8EeaBO_k7nJlGZA" featurename="children" parentElementId="org.grits.toolbox.core.menu.projectexplorer.popup.submenu.new">
+    <elements xsi:type="menu:HandledMenuItem" xmi:id="_s2uM8AM8EeaBO_k7nJlGZA" elementId="org.grits.toolbox.entry.sample.handledmenuitem.analyte" label="Analyte" iconURI="platform:/plugin/org.grits.toolbox.entry.sample/icons/sampleIconSmall.png" tooltip="Creates a new analyte entry in the project" enabled="false" command="_9HTzcAMkEeaBO_k7nJlGZA"/>
+    <elements xsi:type="menu:HandledMenuItem" xmi:id="_xxri0BLZEeaW35AFShdvjw" elementId="org.grits.toolbox.entry.sample.handledmenuitem.batchofanalytes" label="Batch of Analytes" tooltip="Creates x number of new analytes" command="_UG6AMBLSEeaW35AFShdvjw"/>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_I8k7oAVyEealXJcY-AyZaw" featurename="descriptors" parentElementId="org.grits.toolbox.core.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_LgfC0AVyEealXJcY-AyZaw" elementId="org.grits.toolbox.partdescriptor.entry.analyte.default" label="Analyte PartDescriptor" iconURI="platform:/plugin/org.grits.toolbox.entry.sample/icons/sampleIconSmall.png" tooltip="It displays information about analyte entry" bindingContexts="_Xk3T8ODaEeaUVu2_1UmTXg" allowMultiple="true" category="org.grits.toolbox.property.sample" closeable="true" dirtyable="true" contributionURI="bundleclass://org.grits.toolbox.entry.sample/org.grits.toolbox.entry.sample.part.AnalyteEntryPart">
+      <tags>default</tags>
+      <tags>perspective:org.grits.toolbox.core.perspective.projectexplorer</tags>
+      <tags>removeOnHide</tags>
+      <handlers xmi:id="_XvcDMAspEeaAL9wzr3XE0Q" elementId="org.grits.toolbox.entry.sample.handler.addcomponent" contributionURI="bundleclass://org.grits.toolbox.entry.sample/org.grits.toolbox.entry.sample.part.toolbar.AddComponentHandler" command="_bZzcIAspEeaAL9wzr3XE0Q"/>
+      <toolbar xmi:id="_1Ux00AWhEealXJcY-AyZaw" elementId="org.grits.toolbox.entry.sample.toolbar.partdescriptor.analyte">
+        <children xsi:type="menu:HandledToolItem" xmi:id="_j3YFYAspEeaAL9wzr3XE0Q" elementId="org.grits.toolbox.entry.sample.handledtoolitem.addcomponent" label="Add a Component" iconURI="platform:/plugin/org.grits.toolbox.entry.sample/icons/test-tube2.png" tooltip="Adds a component to the sample" command="_bZzcIAspEeaAL9wzr3XE0Q"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_rId5IAZiEea4xrtLrEQ6sw" elementId="org.grits.toolbox.entry.sample.directtoolitem.renameanalyte" label="Rename Component" iconURI="platform:/plugin/org.grits.toolbox.entry.sample/icons/rename.png" tooltip="Renames the selected component of the analyte" contributionURI="bundleclass://org.grits.toolbox.entry.sample/org.grits.toolbox.entry.sample.part.toolbar.Rename"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_rfWvIAZiEea4xrtLrEQ6sw" elementId="org.grits.toolbox.entry.sample.directtoolitem.settemplate" label="Set / Create Template" iconURI="platform:/plugin/org.grits.toolbox.entry.sample/icons/template_icon.png" tooltip="Sets a new or matching template for the component" contributionURI="bundleclass://org.grits.toolbox.entry.sample/org.grits.toolbox.entry.sample.part.toolbar.SetTemplate"/>
+      </toolbar>
+    </elements>
+  </fragments>
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_hx7rMCEgEee93_TNp1fXXA" featurename="children" parentElementId="org.grits.toolbox.core.toolbar.main" positionInList="">
+    <elements xsi:type="menu:HandledToolItem" xmi:id="_mx92kCEgEee93_TNp1fXXA" elementId="org.grits.toolbox.entry.sample.handledtoolitem.newanalyte" label="New Analyte" iconURI="platform:/plugin/org.grits.toolbox.entry.sample/icons/sampleIconSmall.png" tooltip="Create a new Analyte" command="_9HTzcAMkEeaBO_k7nJlGZA"/>
+  </fragments>
+</fragment:ModelFragments>

@@ -1,0 +1,6 @@
+IgA	IgA
+IgD	IgD
+IgE	IgE
+IgG	IgG
+IgM	IgM
+Other	Other

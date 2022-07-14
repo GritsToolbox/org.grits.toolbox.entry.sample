@@ -1,0 +1,5 @@
+Risk Group 1	Risk Group 1
+2	2
+3	3
+4	4
+Other	Other

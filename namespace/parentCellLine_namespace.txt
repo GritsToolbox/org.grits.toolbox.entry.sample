@@ -1,0 +1,303 @@
+CHB-1	CHB-1
+CHB-2	CHB-2
+CHB-3	CHB-3
+CHB-4	CHB-4
+CHB-5	CHB-5
+CHB-6	CHB-6
+CHB-8	CHB-8
+CHB-9	CHB-9
+CHB-10	CHB-10
+CHB-11	CHB-11
+CHB-12	CHB-12
+RUES1	RUES1
+RUES2	RUES2
+HUES 1	HUES 1
+HUES 2	HUES 2
+HUES 3	HUES 3
+HUES 4	HUES 4
+HUES 5	HUES 5
+HUES 6	HUES 6
+HUES 7	HUES 7
+HUES 8	HUES 8
+HUES 9	HUES 9
+HUES 10	HUES 10
+HUES 11	HUES 11
+HUES 12	HUES 12
+HUES 13	HUES 13
+HUES 14	HUES 14
+HUES 15	HUES 15
+HUES 16	HUES 16
+HUES 17	HUES 17
+HUES 18	HUES 18
+HUES 19	HUES 19
+HUES 20	HUES 20
+HUES 21	HUES 21
+HUES 22	HUES 22
+HUES 23	HUES 23
+HUES 24	HUES 24
+HUES 26	HUES 26
+HUES 27	HUES 27
+HUES 28	HUES 28
+CyT49	CyT49
+RUES3	RUES3
+WA01 (H1)	WA01 (H1)
+UCSF4	UCSF4
+NYUES1	NYUES1
+NYUES2	NYUES2
+NYUES3	NYUES3
+NYUES4	NYUES4
+NYUES5	NYUES5
+NYUES6	NYUES6
+NYUES7	NYUES7
+MFS5; disease-specific mutation 	MFS5; disease-specific mutation 
+HUES 48	HUES 48
+HUES 49	HUES 49
+HUES 53	HUES 53
+HUES 65	HUES 65
+HUES 66	HUES 66
+UCLA 1	UCLA 1
+UCLA 2	UCLA 2
+UCLA 3	UCLA 3
+WA07 (H7)	WA07 (H7)
+WA09 (H9)	WA09 (H9)
+WA13 (H13)	WA13 (H13)
+WA14 (H14)	WA14 (H14)
+HUES 62	HUES 62
+HUES 63	HUES 63
+HUES 64	HUES 64
+CT1	CT1
+CT2	CT2
+CT3	CT3
+CT4	CT4
+MA135	MA135
+Endeavour-2	Endeavour-2
+WIBR1	WIBR1
+WIBR2	WIBR2
+HUES 45	HUES 45
+Shef 3	Shef 3
+Shef 6	Shef 6
+WIBR3	WIBR3
+WIBR4	WIBR4
+WIBR5	WIBR5
+WIBR6	WIBR6
+BJNhem19	BJNhem19
+BJNhem20	BJNhem20
+SA001	SA001
+SA002; abnormal karyotype	SA002; abnormal karyotype
+UCLA 4	UCLA 4
+UCLA 5	UCLA 5
+UCLA 6	UCLA 6
+HUES PGD 13; disease-specific mutation 	HUES PGD 13; disease-specific mutation 
+HUES PGD 3; disease-specific mutation	HUES PGD 3; disease-specific mutation
+ESI-014	ESI-014
+ESI-017	ESI-017
+HUES PGD 11; disease-specific mutation 	HUES PGD 11; disease-specific mutation 
+HUES PGD 12; disease-specific mutation 	HUES PGD 12; disease-specific mutation 
+WA15	WA15
+WA16; disease-specific mutation/abnormal karyotype 	WA16; disease-specific mutation/abnormal karyotype 
+WA17	WA17
+WA18	WA18
+WA19	WA19
+WA20	WA20
+WA21	WA21
+WA22	WA22
+WA23	WA23
+WA24	WA24
+CSES2	CSES2
+CSES4	CSES4
+CSES7	CSES7
+CSES8; abnormal karyotype	CSES8; abnormal karyotype
+CSES11; abnormal karyotype	CSES11; abnormal karyotype
+CSES12; abnormal karyotype	CSES12; abnormal karyotype
+CSES13; abnormal karyotype	CSES13; abnormal karyotype
+CSES14; abnormal karyotype	CSES14; abnormal karyotype
+CSES15	CSES15
+CSES17	CSES17
+CSES19	CSES19
+CSES20; abnormal karyotype	CSES20; abnormal karyotype
+CSES21; abnormal karyotype	CSES21; abnormal karyotype
+CSES22; abnormal karyotype	CSES22; abnormal karyotype
+CSES23; abnormal karyotype	CSES23; abnormal karyotype
+CSES24; abnormal karyotype	CSES24; abnormal karyotype
+CSES25	CSES25
+HAD-C 100	HAD-C 100
+HAD-C 102	HAD-C 102
+HAD-C 106	HAD-C 106
+RNJ19; disease-specific mutation 	RNJ19; disease-specific mutation 
+RNJ20; disease-specific mutation 	RNJ20; disease-specific mutation 
+RNJ18; disease-specific mutation 	RNJ18; disease-specific mutation 
+ESI-035	ESI-035
+ESI-049	ESI-049
+ESI-051	ESI-051
+ESI-053	ESI-053
+CSES5; abnormal karyotype	CSES5; abnormal karyotype
+CSES6; abnormal karyotype	CSES6; abnormal karyotype
+CSES18	CSES18
+HUES PGD 14; disease-specific mutation 	HUES PGD 14; disease-specific mutation 
+CA1	CA1
+CA2	CA2
+MEL-1 	MEL-1 
+MEL-2 	MEL-2 
+MEL-3 	MEL-3 
+MEL-4 	MEL-4 
+UCLA 7; disease-specific mutation/abnormal karyotype 	UCLA 7; disease-specific mutation/abnormal karyotype 
+UCLA 8	UCLA 8
+UCLA 9	UCLA 9
+UCLA 10	UCLA 10
+UM4-6	UM4-6
+HUES PGD 1; disease-specific mutation 	HUES PGD 1; disease-specific mutation 
+HUES PGD 15; possible disease-specific mutation 	HUES PGD 15; possible disease-specific mutation 
+HUES PGD 16; disease-specific mutation 	HUES PGD 16; disease-specific mutation 
+GENEA002	GENEA002
+GENEA048; abnormal karyotype	GENEA048; abnormal karyotype
+UM11-1PGD; disease-specific mutation 	UM11-1PGD; disease-specific mutation 
+UM9-1PGD; disease-specific mutation 	UM9-1PGD; disease-specific mutation 
+UM38-2 PGD; disease-specific mutation	UM38-2 PGD; disease-specific mutation
+Elf1	Elf1
+HUES 42	HUES 42
+HUES 44	HUES 44
+NMR-1	NMR-1
+UM17-1 PGD; disease-specific mutation 	UM17-1 PGD; disease-specific mutation 
+UM15-4 PGD; disease-specific mutation 	UM15-4 PGD; disease-specific mutation 
+UM14-1	UM14-1
+UM14-2	UM14-2
+UM29-2 PGD; disease-specific mutation 	UM29-2 PGD; disease-specific mutation 
+UM29-3 PGD; disease-specific mutation 	UM29-3 PGD; disease-specific mutation 
+GENEA017; disease-specific mutation 	GENEA017; disease-specific mutation 
+GENEA041; disease-specific mutation 	GENEA041; disease-specific mutation 
+GENEA068; disease-specific mutation 	GENEA068; disease-specific mutation 
+GENEA018; disease-specific mutation 	GENEA018; disease-specific mutation 
+GENEA024; disease-specific mutation 	GENEA024; disease-specific mutation 
+GENEA040; disease-specific mutation 	GENEA040; disease-specific mutation 
+GENEA060; disease-specific mutation 	GENEA060; disease-specific mutation 
+GENEA061; disease-specific mutation 	GENEA061; disease-specific mutation 
+GENEA064; disease-specific mutation 	GENEA064; disease-specific mutation 
+GENEA059; disease-specific mutation 	GENEA059; disease-specific mutation 
+HUES 68	HUES 68
+HUES 70	HUES 70
+HUES 69	HUES 69
+HUES PGD 10	HUES PGD 10
+GENEA046; disease-specific mutation 	GENEA046; disease-specific mutation 
+GENEA069; disease-specific mutation	GENEA069; disease-specific mutation
+GENEA070; disease-specific mutation	GENEA070; disease-specific mutation
+GENEA049; disease-specific mutation	GENEA049; disease-specific mutation
+GENEA050; disease-specific mutation	GENEA050; disease-specific mutation
+UCLA 11	UCLA 11
+UCLA 12	UCLA 12
+GENEA062; disease-specific mutation	GENEA062; disease-specific mutation
+GENEA063; disease-specific mutation	GENEA063; disease-specific mutation
+GENEA066; disease-specific mutation	GENEA066; disease-specific mutation
+GENEA067; disease-specific mutation	GENEA067; disease-specific mutation
+GENEA071; disease-specific mutation	GENEA071; disease-specific mutation
+GENEA072; disease-specific mutation	GENEA072; disease-specific mutation
+GENEA073; disease-specific mutation	GENEA073; disease-specific mutation
+GENEA074; disease-specific mutation	GENEA074; disease-specific mutation
+HUES PGD 2; possible disease-specific mutation	HUES PGD 2; possible disease-specific mutation
+WA25	WA25
+WA26	WA26
+WA27	WA27
+GENEA058; Disease-specific mutation  	GENEA058; Disease-specific mutation  
+GENEA065; Disease-specific mutation	GENEA065; Disease-specific mutation
+HS346	HS346
+HS401	HS401
+HS420	HS420
+I3 (TE03)	I3 (TE03)
+I4 (TE04)	I4 (TE04)
+I6 (TE06)	I6 (TE06)
+HS799; disease-specific mutation	HS799; disease-specific mutation
+UM57-1 PGD; disease-specific mutation	UM57-1 PGD; disease-specific mutation
+UM22-2	UM22-2
+CR-4	CR-4
+WCMC-37; disease-specific mutation 	WCMC-37; disease-specific mutation 
+KCL011	KCL011
+KCL012; disease-specific mutation	KCL012; disease-specific mutation
+KC013; disease-specific mutation	KC013; disease-specific mutation
+KCL015; disease-specific mutation	KCL015; disease-specific mutation
+KCL016; disease-specific mutation	KCL016; disease-specific mutation
+KCL017; disease-specific mutation	KCL017; disease-specific mutation
+KCL018; disease-specific mutation	KCL018; disease-specific mutation
+KCL021; disease-specific mutation	KCL021; disease-specific mutation
+KCL024; disease-specific mutation	KCL024; disease-specific mutation
+KCL025; disease-specific mutation	KCL025; disease-specific mutation
+KCL026; disease-specific mutation	KCL026; disease-specific mutation
+KCL027; disease-specific mutation	KCL027; disease-specific mutation
+KCL028; disease-specific mutation	KCL028; disease-specific mutation
+KCL029; disease-specific mutation	KCL029; disease-specific mutation
+KCL030; disease-specific mutation	KCL030; disease-specific mutation
+KCL035; disease-specific mutation	KCL035; disease-specific mutation
+GENEA015	GENEA015
+GENEA016	GENEA016
+GENEA047	GENEA047
+GENEA042	GENEA042
+GENEA043	GENEA043
+GENEA057	GENEA057
+GENEA052	GENEA052
+NYUES12	NYUES12
+NYUES11; abnormal karyotype	NYUES11; abnormal karyotype
+NYUES13	NYUES13
+NYUES8	NYUES8
+NYUES9	NYUES9
+NYUES10	NYUES10
+KCL036; disease-specific mutation	KCL036; disease-specific mutation
+KCL042; disease-specific mutation	KCL042; disease-specific mutation
+KCL043; disease-specific mutation	KCL043; disease-specific mutation
+GENEA096; disease-specific mutations	GENEA096; disease-specific mutations
+GENEA090; disease-specific mutations	GENEA090; disease-specific mutations
+GENEA091; disease-specific mutations	GENEA091; disease-specific mutations
+GENEA089; disease-specific mutations	GENEA089; disease-specific mutations
+GENEA097; disease-specific mutations	GENEA097; disease-specific mutations
+GENEA098; disease-specific mutations	GENEA098; disease-specific mutations
+GENEA085 ; disease-specific mutation	GENEA085 ; disease-specific mutation
+GENEA082 ; disease-specific mutation, abnormal karyotype	GENEA082 ; disease-specific mutation, abnormal karyotype
+GENEA078 ; disease-specific mutation	GENEA078 ; disease-specific mutation
+GENEA079 ; disease-specific mutation	GENEA079 ; disease-specific mutation
+GENEA080 ; disease-specific mutation	GENEA080 ; disease-specific mutation
+GENEA081 ; disease-specific mutation	GENEA081 ; disease-specific mutation
+GENEA083; disease-specific mutations, abnormal karyotype	GENEA083; disease-specific mutations, abnormal karyotype
+GENEA084 ; disease-specific mutation	GENEA084 ; disease-specific mutation
+GENEA086 ; disease-specific mutation	GENEA086 ; disease-specific mutation
+GENEA087 ; disease-specific mutation	GENEA087 ; disease-specific mutation
+GENEA088 ; disease-specific mutation	GENEA088 ; disease-specific mutation
+GENEA077; disease-specific mutation	GENEA077; disease-specific mutation
+KCL023	KCL023
+KCL031	KCL031
+KCL022	KCL022
+KCL038	KCL038
+KCL032	KCL032
+KCL033	KCL033
+KCL034	KCL034
+KCL037	KCL037
+KCL019	KCL019
+KCL020	KCL020
+KCL040	KCL040
+KCL041; abnormal karyotype/disease-specific mutation	KCL041; abnormal karyotype/disease-specific mutation
+KCL039	KCL039
+UM59-2 PGD; disease-specific mutation	UM59-2 PGD; disease-specific mutation
+UM89-1 PGD; disease-specific mutation	UM89-1 PGD; disease-specific mutation
+UM63-1	UM63-1
+UM77-2	UM77-2
+UM33-4	UM33-4
+HUES 75	HUES 75
+HUES 71	HUES 71
+HUES 72	HUES 72
+HUES 73	HUES 73
+CSC14	CSC14
+UM112-1 PGD; disease-specific mutation	UM112-1 PGD; disease-specific mutation
+UM134-1 PGD; disease-specific mutation	UM134-1 PGD; disease-specific mutation
+UM90-12 PGS; abnormal karyotype	UM90-12 PGS; abnormal karyotype
+UM78-2	UM78-2
+UM76-1 PGS; abnormal karyotype	UM76-1 PGS; abnormal karyotype
+UM114-10	UM114-10
+UM121-7	UM121-7
+UM139-2 PGD; disease-specific mutation	UM139-2 PGD; disease-specific mutation
+UCLA 13	UCLA 13
+UCLA 14	UCLA 14
+UCLA 15	UCLA 15
+UCLA 16	UCLA 16
+UCLA 17	UCLA 17
+UCLA 18	UCLA 18
+WIN-1	WIN-1
+WIN-2	WIN-2
+WIN-3	WIN-3
+WIN-4	WIN-4
+WIN-5	WIN-5

@@ -1,0 +1,3 @@
+N-terminal	N-terminal
+C-terminal	C-terminal
+Other	Other
